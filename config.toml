@@ -7,8 +7,8 @@ publishDir = "docs"
 canonifyurls = true
 
 
-baseURL = "https://beginnercppis.github.io/Electric-Sheep/"
-#baseURL = "https://subtle-life.work" 
+#baseURL = "https://beginnercppis.github.io/Electric-Sheep/"
+baseURL = "https://subtle-life.work" 
 defaultContentLanguage = "en"
 title = "introduction"
 theme = "m10c"
