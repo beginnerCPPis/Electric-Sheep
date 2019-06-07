@@ -2,11 +2,13 @@
 #languageCode = "en-us"
 #title = "My New Hugo Site"
 
+
 publishDir = "docs"
 canonifyurls = true
 
 
-baseURL = "https://beginnercppis.github.io/Electric-Sheep/"
+#baseURL = "https://beginnercppis.github.io/Electric-Sheep/"
+baseURL = "https://subtle-life.work" 
 defaultContentLanguage = "en"
 title = "introduction"
 theme = "m10c"
